@@ -1,2 +1,2 @@
-# C37RV_SpeedRacer_ReferenceCode
-Reference Code
+# C37-Actividad de la maestra 2
+Código de referencia
